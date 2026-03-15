@@ -1,0 +1,1 @@
+"Value" column in COVIDAnxDep represents the percentage of adults aged 18 or older who participated in the survey who reported symtoms of the listed disorder.
